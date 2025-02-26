@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: yellowgreen;
+}
+h1{
+
+    color: blue;
+    text-shadow: 2px;
+    text-align: center;
+       }
+
+h2{
+    color: blueviolet;
+}
+
+p{
+    font-size: 15px;
+}
